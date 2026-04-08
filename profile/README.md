@@ -30,39 +30,34 @@ Types: `fix/` `feat/` `chore/` `hotfix/` `refactor/` `spike/`
 
 ## Team
 
-### [@mayerstrk](https://github.com/mayerstrk)
-
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/mayerstrk">
-<img src="https://github-readme-stats.vercel.app/api?username=mayerstrk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayerstrk&theme=tokyonight&hide_border=true" width="49%"/>
+<strong>@mayerstrk</strong>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayerstrk&theme=tokyonight&hide_border=true" width="400"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayerstrk&theme=tokyo-night&hide_border=true&area=true" width="400"/>
 </a>
-
-<a href="https://github.com/mayerstrk">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayerstrk&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</a>
-
----
-
-### [@GerritHillebrecht](https://github.com/GerritHillebrecht)
-
+</td>
+<td align="center">
 <a href="https://github.com/GerritHillebrecht">
-<img src="https://github-readme-stats.vercel.app/api?username=GerritHillebrecht&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GerritHillebrecht&theme=tokyonight&hide_border=true" width="49%"/>
+<strong>@GerritHillebrecht</strong>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GerritHillebrecht&theme=tokyonight&hide_border=true" width="400"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GerritHillebrecht&theme=tokyo-night&hide_border=true&area=true" width="400"/>
 </a>
-
-<a href="https://github.com/GerritHillebrecht">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GerritHillebrecht&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</a>
-
----
-
-### [@Tombunzel](https://github.com/Tombunzel)
-
+</td>
+<td align="center">
 <a href="https://github.com/Tombunzel">
-<img src="https://github-readme-stats.vercel.app/api?username=Tombunzel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tombunzel&theme=tokyonight&hide_border=true" width="49%"/>
+<strong>@Tombunzel</strong>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tombunzel&theme=tokyonight&hide_border=true" width="400"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tombunzel&theme=tokyo-night&hide_border=true&area=true" width="400"/>
 </a>
-
-<a href="https://github.com/Tombunzel">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tombunzel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</a>
+</td>
+</tr>
+</table>
