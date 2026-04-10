@@ -1,4 +1,4 @@
-#### Team
+### Team
 
 <sub>**[Gerrit Hillebrecht](https://github.com/GerritHillebrecht)**</sub>
 
@@ -12,17 +12,17 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayerstrk&theme=catppuccin_frappe&hide_border=true" width="46.5%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayerstrk&theme=material-palenight&hide_border=true&area=true" width="52.5%" />
 
-#### Conventions
+### Conventions
 
-*dev envrionmet:* Makefile
+**dev envrionmet:** Makefile
 
-*Local hooks:* lefthook built by source enforce
+**Local hooks:** lefthook built by source enforce
 
-*package manager:* `pnpm` — do not use `npm`
+**package manager:** `pnpm` — do not use `npm`
 
-deployments strat: artifact promotion
+**deployments strat**: artifact promotion
 
-branching strat: trunk based development, branches follow conventional commits with path-based scoping:
+**branching strat**: trunk based development, branches follow conventional commits with path-based scoping:
 
   ```
   type/scope-description              # root branch
@@ -30,6 +30,4 @@ branching strat: trunk based development, branches follow conventional commits w
   __type/.../sub-sub-task             # grandchild
   ```
 
-  commit-ypes: `fix/` `feat/` `chore/` `hotfix/` `refactor/` `spike/`
-
-  commit example: `type(scope): description` — [conventional commits](https://www.conventionalcommits.org)
+  > commit example: `type(scope): description` — [conventional commits](https://www.conventionalcommits.org)
