@@ -16,7 +16,7 @@
 
 **dev envrionmet:** Makefile
 
-**Local hooks:** lefthook built by source enforce
+**Local hooks:** lefthook built by source enforced by scripts
 
 **package manager:** `pnpm` — do not use `npm`
 
@@ -25,9 +25,9 @@
 **branching strat**: trunk based development, branches follow conventional commits with path-based scoping:
 
   ```
-  type/scope-description              # root branch
-  _type/scope-description/sub-task    # child (merges into parent)
-  __type/.../sub-sub-task             # grandchild
+  type/scope-description              # base-branch
+  _type/scope-description/sub-task    # sub-branch
+  __type/.../sub-sub-task             # nested sub-branch
   ```
 
   > commit example: `type(scope): description` — [conventional commits](https://www.conventionalcommits.org)
